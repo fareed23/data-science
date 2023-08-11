@@ -10,3 +10,11 @@
           2. IQR method
           3. Z-Score
    3. Droping duplicates
+4. Transforming the data
+   1. Normalize the data (Data Normalization)
+      1. Min-Max Scaling (Normalization)
+      2. Standard Scaling
+      3. Log Transformation
+      4. Winsorization
+      5. Z-Score Normalization
+      6. Decimal Scalling
