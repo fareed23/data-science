@@ -18,3 +18,8 @@
       4. Winsorization
       5. Z-Score Normalization
       6. Decimal Scalling
+5. Feature Engineering
+6. Organizing the data
+   1. Columns Creation
+   2. Renaming
+7. Saving the data
