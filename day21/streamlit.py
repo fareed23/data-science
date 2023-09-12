@@ -1,3 +1,4 @@
 import streamlit as st
 
-st.write('First App')
+st.title('First App')
+st.write('First')
