@@ -1,3 +1,3 @@
-print("Hey!")
-print("This is to create a ML App!")
-print("Okay!")
+import streamlit as st
+
+st.title('My Web App')
