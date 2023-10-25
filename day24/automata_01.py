@@ -7,3 +7,4 @@
 # 6. Create a function to count the number of black tiles
 # 7. Create a function to flip the tiles
 # 8. Create a function to run the automata
+# 9. Create a function to run the automata for n days
