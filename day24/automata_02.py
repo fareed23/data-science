@@ -1,5 +1,6 @@
 states = ['q0', 'q1', 'q2'] 
 
+# DFA 2
 def accept_re2(input_str):
 
   current_state = 'q0'
